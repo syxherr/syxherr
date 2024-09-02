@@ -12,9 +12,9 @@ Hai, My Name is Shaskia Putri Devi and I'm
 
 <img alt="GIF" src="elphelt.gif" width="160"  />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalff&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; &nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syxherr&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; &nbsp;
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafalff&theme=aura_dark&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syxherr&theme=aura_dark&)
 
 </div>
 
