@@ -5,7 +5,7 @@ Hai, My Name is Shaskia Putri Devi and I'm
 📫 Currently learning Web Development and Mobile Development<br>
 🎓 Informatics Engineering student at Universitas Teknologi Bandung<br>
 <br>
-🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/) here.
+🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/).
 <br>
 
 ## Contact
