@@ -8,6 +8,10 @@ Hai, My Name is Shaskia Putri Devi and I'm
 🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/).
 <br>
 
+## Contact
+You can reach me via Email: shaskiapdv@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/shaskia-putri-devi/)
+<br>
+## Programming Language
 <div align=start>
 
 <img alt="GIF" src="elphelt.gif" width="160"  />
@@ -18,5 +22,4 @@ Hai, My Name is Shaskia Putri Devi and I'm
 
 </div>
 
-## Contact
-You can reach me via Email: shaskiapdv@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/shaskia-putri-devi/)
+
