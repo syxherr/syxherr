@@ -11,6 +11,7 @@ Hai, My Name is Shaskia Putri Devi and I'm
 ## Contact
 You can reach me via Email: shaskiapdv@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/shaskia-putri-devi/)
 <br>
+<br>
 ## Programming Language
 <div align=start>
 
