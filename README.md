@@ -1,10 +1,8 @@
 ## Greetings!
-<h2>Hai, My Name is Shaskia Putri Devi.</h2>
+Hai, My Name is Shaskia Putri Devi.
 
 🌱 Interested in Mobile Development using Kotlin
-
 📫 Currently learning Web Development and Mobile Development
-
 🎓 Informatics Engineering student at Universitas Teknologi Bandung
 
 <br>
