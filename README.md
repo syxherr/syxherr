@@ -1,7 +1,6 @@
-## Greetings!✨
-Hai, My Name is Shaskia Putri Devi
-
-## And I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=25&pause=1050&color=8368FF&width=450&lines=Mobile+Developer;Front-End+Developer)](https://git.io/typing-svg)
+<h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=25&pause=1050&color=8368FF&center=true&vCenter=true&width=355&lines=Hi+There%F0%9F%91%8B%F0%9F%8F%BB;I'm+Shaskia+Putri+Devi%E2%9C%A8" alt="Typing SVG" /></a>
+</h1>
 
 🌱 Interested in Mobile Development using Kotlin<br>
 📫 Currently learning Web Development and Mobile Development<br>
