@@ -22,6 +22,7 @@ Hai, My Name is Shaskia Putri Devi and I'm
 <img alt="GIF" src="elphelt.gif" width="160"  />
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syxherr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syxherr&theme=dark&)
 
 </div>
