@@ -1,7 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=25&pause=1050&color=8368FF&center=true&vCenter=true&width=355&lines=Hi+There%F0%9F%91%8B%F0%9F%8F%BB;I'm+Shaskia+Putri+Devi%E2%9C%A8" alt="Typing SVG" /></a>
 </h1>
-
+<br>
+## About Me🌙
 🌱 Interested in Mobile Development using Kotlin<br>
 📫 Currently learning Web Development and Mobile Development<br>
 🎓 Informatics Engineering student at Universitas Teknologi Bandung<br>
