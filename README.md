@@ -4,8 +4,8 @@
 <br>
 
 ## About Me🌙
-🌱 Interested in Mobile Development using Kotlin<br>
-📫 Currently learning Web Development and Mobile Development<br>
+🌱 Interested in Mobile Development using Kotlin and Data Engineer<br>
+📫 Currently learning Web Development, Mobile Development<br>
 🎓 Informatics Engineering student at Universitas Teknologi Bandung<br>
 <br>
 🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/)<br>
