@@ -4,13 +4,13 @@
 <br>
 
 ## About Me🌙
-🌱 Interested in Mobile Development using Kotlin and Data Engineer<br>
-📫 Currently learning Web Development, Mobile Development<br>
+🌱 Immersed in programming<br>
+📫 Currently learning Web Development, Mobile Development, and Data Engineer<br>
 🎓 Informatics Engineering student at Universitas Teknologi Bandung<br>
 <br>
 🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/)<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaskiapv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaskiapv) 
+Reach Me! [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaskiapv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaskiapv) 
 <br>
 <br>
 ## Tech Stack💻
