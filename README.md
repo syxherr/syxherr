@@ -9,6 +9,7 @@
 🎓 Informatics Engineering student at Universitas Teknologi Bandung<br>
 <br>
 🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/)<br>
+<br>
 
 Reach Me! [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaskiapv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaskiapv) 
 <br>
