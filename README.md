@@ -23,4 +23,4 @@ Reach Me! [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?log
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syxherr&theme=discord_old_blurple&)
 
-![snake gif](https://github.com/syxherr/syxherr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/syxherr/syxherr/blob/output/github-contribution-grid-snake.svg)
