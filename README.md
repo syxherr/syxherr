@@ -6,7 +6,7 @@
 ## About Me🌙
 🌱 Immersed in programming<br>
 📫 Skilled in Mobile Development and UI/UX<br>
-🎓 Fresh graduate in Informatics Engineering from Universitas Teknologi Bandung<br>
+🎓 Fresh graduate in Computer Science from Universitas Teknologi Bandung<br>
 <br>
 🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/)<br>
 <br>
