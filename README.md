@@ -5,7 +5,7 @@
 
 ## About Me🌙
 🌱 Immersed in programming<br>
-📫 Currently learning Web Development, Mobile Development, and Data Engineer<br>
+📫 Skilled in Mobile Development and UI/UX<br>
 🎓 Informatics Engineering student at Universitas Teknologi Bandung<br>
 <br>
 🔗 Check out my [Portofolio](https://syxherr.github.io/portofolio/)<br>
