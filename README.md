@@ -4,12 +4,13 @@
 <br>
 
 ## About Me🌙
-🌱 Immersed in programming<br>
+🌱 Passionate in programming and Design<br>
 📫 Skilled in React.js and UI/UX<br>
 🎓 Fresh graduate in Computer Science from Universitas Teknologi Bandung<br>
 <br>
 
-Reach Me! [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaskiapv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaskiapv) 
+## Reach Me! 
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaskiapv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaskiapv) 
 <br>
 <br>
 ## Tech Stack💻
