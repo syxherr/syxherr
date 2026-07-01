@@ -5,7 +5,7 @@
 
 ## About Me🌙
 🌱 Passionate in programming and Design<br>
-📫 Skilled in React.js and UI/UX<br>
+📫 Skilled in Front-End Dev and UI/UX<br>
 🎓 Fresh graduate in Computer Science from Universitas Teknologi Bandung<br>
 <br>
 
