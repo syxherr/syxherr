@@ -1,9 +1,9 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaskia%20Putri%20Devi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%C2%B7%20UI%2FUX%20Enthusiast&descSize=16&descAlignY=58" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaskia%20Putri%20Devi&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="Banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=22&pause=1050&color=8368FF&center=true&vCenter=true&width=420&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;Turning+ideas+into+clean+interfaces+%E2%9C%A8;Let's+build+something+together" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=22&pause=1050&color=8368FF&center=true&vCenter=true&width=420&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Front-End+Dev;UI/UX+Designer" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -17,7 +17,6 @@
 <!-- ===== ABOUT ===== -->
 ## 🌙 About Me
 
-> *"Where clean code meets thoughtful design."*
 
 | | |
 |---|---|
@@ -39,12 +38,9 @@
 
 <br>
 
-<!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syxherr&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syxherr&theme=discord_old_blurple" alt="Profile details" />
 
