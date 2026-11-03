@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaskia%20Putri%20Devi&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="Banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=22&pause=1050&color=8368FF&center=true&vCenter=true&width=420&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Front-End+Dev;UI/UX+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=22&pause=1050&color=8368FF&center=true&vCenter=true&width=420&lines=+%F0%9F%91%8B%F0%9F%8F%BB;Front-End+Dev;UI/UX+Designer" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -14,7 +14,6 @@
 
 <br>
 
-<!-- ===== ABOUT ===== -->
 ## 🌙 About Me
 
 
