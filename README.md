@@ -5,6 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=22&pause=1050&color=8368FF&center=true&vCenter=true&width=420&lines=+%F0%9F%91%8B%F0%9F%8F%BB;Front-End+Dev;UI/UX+Designer" alt="Typing SVG" /></a>
 
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shaskiapv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaskiapv)
@@ -13,8 +14,10 @@
 
 <br>
 
+<!-- ===== ABOUT ===== -->
 ## 🌙 About Me
 
+> *"Where clean code meets thoughtful design."*
 
 | | |
 |---|---|
@@ -36,6 +39,7 @@
 
 <br>
 
+<!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Stats
 
 <div align="center">
