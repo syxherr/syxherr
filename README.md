@@ -1,7 +1,7 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Shaskia%20Putri%20Devi&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2A99,100:8368FF&height=200&section=header&text=Shaskia%20Putri%20Devi&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="Banner" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Cuba&weight=500&size=22&pause=1050&color=8368FF&center=true&vCenter=true&width=420&lines=I'm+a+Front-End+Dev;I'm+a+UI/UX+Designer" alt="Typing SVG" /></a>
 
@@ -20,7 +20,7 @@
 |---|---|
 | 🌱 **Passion** | Programming & Design |
 | 💻 **Focus** | Front-End Development and UI/UX |
-| 🎓 **Education** | Fresh graduate in Computer Science, Universitas Teknologi Bandung |
+| 🎓 **Education** | Bachelor of Informatics Engineering, Universitas Teknologi Bandung |
 | 📍 **Based in** | Bandung, Indonesia |
 
 <br>
@@ -46,4 +46,4 @@
 </div>
 
 <!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2A99,100:8368FF&height=200&section=footer" width="100%" alt="Footer" />
